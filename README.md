@@ -1,4 +1,4 @@
-# spring-cloud-discovery-server
+# ecommerce-spring-cloud-discovery-server
 
 Eureka Service Registry for the Spring Cloud microservices demo project.
 
